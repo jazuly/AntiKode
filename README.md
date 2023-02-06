@@ -17,6 +17,7 @@
 - Update Database Connection.
 - Run `php artisan key:generate`.
 - Run `php artisan migrate`.
+- Run `php artisan storage:link`.
 - Run `php artisan serve`.
 - Import [Postman API Documentation](https://github.com/jazuly/AntiKode/blob/master/postman_collection.json).
 
