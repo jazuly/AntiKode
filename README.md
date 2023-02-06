@@ -7,6 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Requirement
+- [Laravel Requirement](https://laravel.com/docs/8.x/deployment#server-requirements).
+- PostgreSQL Database Client
+- PostgreSQL Support Extension [`cube`](https://www.postgresql.org/docs/current/cube.html) & [`earthdistance`](https://www.postgresql.org/docs/current/earthdistance.html)
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
