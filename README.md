@@ -12,6 +12,14 @@
 - [PostgreSQL](https://www.postgresql.org/) Database Client.
 - PostgreSQL Support Extension [`cube`](https://www.postgresql.org/docs/current/cube.html) & [`earthdistance`](https://www.postgresql.org/docs/current/earthdistance.html).
 
+## How to Run
+- Rename `.env.example` to `.env`.
+- Update Database Connection.
+- Run `php artisan key:generate`.
+- Run `php artisan migrate`.
+- Run `php artisan serve`.
+- Import [Postman API Documentation](https://github.com/jazuly/AntiKode/blob/master/postman_collection.json).
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
