@@ -9,8 +9,8 @@
 
 ## Requirement
 - [Laravel Requirement](https://laravel.com/docs/8.x/deployment#server-requirements).
-- PostgreSQL Database Client
-- PostgreSQL Support Extension [`cube`](https://www.postgresql.org/docs/current/cube.html) & [`earthdistance`](https://www.postgresql.org/docs/current/earthdistance.html)
+- [PostgreSQL](https://www.postgresql.org/) Database Client.
+- PostgreSQL Support Extension [`cube`](https://www.postgresql.org/docs/current/cube.html) & [`earthdistance`](https://www.postgresql.org/docs/current/earthdistance.html).
 
 ## About Laravel
 
